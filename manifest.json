@@ -26,7 +26,7 @@
       "button_background_hover": "#282828",
       "bookmark_text": "rgba(255, 255, 255, 0.8)",
       "frame": "#000000",
-      "frame_inactive": "#000000",
+      "frame_inactive": "#222222",
       "icons": "rgba(255, 255, 255, 0.8)",
       "icons_attention": "#9400ff",
       "ntp_background": "#000000",
